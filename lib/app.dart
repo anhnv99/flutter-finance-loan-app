@@ -1,0 +1,21 @@
+library app;
+
+export 'app.dart';
+export 'app/my_app.dart';
+export 'config/app_config.dart';
+export 'di/di.dart';
+export 'main.dart';
+export 'navigation/app_navigator_impl.dart';
+export 'navigation/mapper/app_popup_info_mapper.dart';
+export 'navigation/mapper/app_route_info_mapper.dart';
+export 'navigation/middleware/route_guard.dart';
+export 'navigation/routes/app_router.dart';
+export 'navigation/routes/app_router.gr.dart';
+export 'resource/generated/assets.gen.dart';
+export 'ui/home/home_page.dart';
+export 'ui/item_detail/item_detail_page.dart';
+export 'ui/login/login_page.dart';
+export 'ui/main/main_page.dart';
+export 'ui/my_page/my_page_page.dart';
+export 'ui/search/search_page.dart';
+export 'package:base/base.dart';
